@@ -1,3 +1,3 @@
 # CTF
 
-©️ 2026 Are Digranes __ADD_LICENSE__
+©️ 2026 Are Digranes, All Rights Reserved
